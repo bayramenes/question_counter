@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "518301577708",
+    "firebase_url": "https://question-counter-d3ba5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "question-counter-d3ba5",
+    "storage_bucket": "question-counter-d3ba5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518301577708:android:1960e9680f6cfca8aa50c9",
+        "android_client_info": {
+          "package_name": "com.example.question_counter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "518301577708-e3inm53lrp5laldhldo1hmd0ptsgcl92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdKeJxK9d3MEpVgebJUOR5IgkjnlwvbJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "518301577708-e3inm53lrp5laldhldo1hmd0ptsgcl92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "518301577708-dc7554pk9kttbt4bs2d6a3sok2gukida.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.questionCounter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
